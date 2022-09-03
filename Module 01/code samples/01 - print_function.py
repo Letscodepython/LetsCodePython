@@ -7,7 +7,7 @@
 # print(f'Python rules Python is cool')
 
 
-# print( *object, sep= “ ”, end = “\n”, file= sys.stdout, flush= False )
+#print( *object, sep= “ ”, end = “\n”, file= sys.stdout, flush= False )
 
 #a = 'Welcome'
 #b = 'Python'

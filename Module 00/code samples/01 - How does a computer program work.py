@@ -1,13 +1,7 @@
-speed = 0
-distance = int(input("Enter distance travelled: "))
-time = int(input("Enter Time it took: "))
+num = "1"
 
-speed = distance / time
-# distance = speed * time
-# time = distance / speed
-# print()
-#
-print(f'Speed is {int(speed)}KM/H')
-# print(f'Distance is {int(distance)}KM\'s')
-# print(f'Time is {int(time)}H\'s')
-# 
+if 5 > 2:
+    print("it is")
+    if 2 < 5:
+        print("it is")
+
